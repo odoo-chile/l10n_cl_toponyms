@@ -12,3 +12,7 @@ This way, the module can be published in Odoo Apps, and dependencies could be en
 
 De esta manera, el modulo puede ser publicado en Odoo Apps, y se podrán habilitar las dependencias del mismo para 9.0
 
+Por este motivo este módulo no se seguirá manteniendo.
+
+Se han adaptado los archivos al nuevo nombre del módulo en odoo-chile/l10n_cl_counties
+

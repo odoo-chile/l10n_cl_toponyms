@@ -19,7 +19,7 @@
 #
 ##############################################################################
 {
-    "name": "Chile Localization Toponyms",
+    "name": "Chile Localization Toponyms ** DEPRECATED",
     "version": "1.0",
     "description": """
 Chilean toponyms.

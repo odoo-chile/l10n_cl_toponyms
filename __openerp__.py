@@ -40,7 +40,7 @@ Lista de regiones, provincias y comunas chilenas
     "update_xml": [
 			],
     "active": False,
-    "installable": True,
+    "installable": False,
     "certificate" : "",
     "images": [
                         ],
